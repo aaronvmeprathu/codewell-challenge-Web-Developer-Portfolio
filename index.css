@@ -53,4 +53,20 @@
     margin-left: 1346px;
     margin-bottom: 200px;
   }
- 
+ .body{
+     
+     padding-top: 133px;
+     width: 100%;
+     color: rgb(235, 235, 235);
+     height: 479px;
+     background-color:rgb(12, 12, 12) ;
+ }
+ .heading1{
+     padding-left: 45px;
+     font-size: 65px;
+ }
+ .description1{
+     margin-top: -31px;
+     padding-left: 45px;
+     font-size: 20px ;
+ }
